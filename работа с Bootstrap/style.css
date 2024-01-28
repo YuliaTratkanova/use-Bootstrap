@@ -1,0 +1,17 @@
+body{
+    margin: 0 auto;
+}
+
+.table {
+    border: 1px solid #E9ECEF;
+    width: 100%;
+}
+
+th, 
+td {
+    border: 1px solid #E9ECEF;
+}
+
+.navbar.navbar-light.bg-light{
+    margin-top: 70px;
+}
